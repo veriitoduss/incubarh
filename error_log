@@ -1,0 +1,2 @@
+[13-Oct-2022 10:31:18 America/Bogota] PHP Warning:  require_once(./vistas/contenidos/404View.php): failed to open stream: No such file or directory in /home/juancami/public_html/vistas/plantilla.php on line 9
+[13-Oct-2022 10:31:18 America/Bogota] PHP Fatal error:  require_once(): Failed opening required './vistas/contenidos/404View.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/juancami/public_html/vistas/plantilla.php on line 9
