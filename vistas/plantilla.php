@@ -1,7 +1,7 @@
 <?php
 include "./vistas/Layouts/Soporte/head.php";
 // include "./vistas/Layouts/Soporte/header.php";
-$preticionAjax = false;
+$peticionAjax = false;
 require_once "./controladores/vistasControlador.php";
 $IV = new vistasControlador();
 $vistas = $IV->obtener_vistas_controlador();

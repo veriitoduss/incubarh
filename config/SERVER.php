@@ -5,8 +5,10 @@
 // const PASS="DTR97UlkMR^5";
 	const SERVER="localhost";
 	const DB="juancami_incubarsoporte";
-	const USER="root";
-	const PASS="";
+	const USER="juancami_incubarsoporte";
+	// const USER="root";
+	const PASS="DTR97UlkMR";
+	// const PASS="";
 
 	const SGBD="mysql:host=".SERVER.";dbname=".DB;
 
